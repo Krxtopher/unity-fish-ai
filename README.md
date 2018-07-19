@@ -2,7 +2,7 @@
 
 A Unity experiment in programming AI for fish in a tank.
 
-[![](Documentation/Images/Unity Fish AI Video Thumb.jpg)](https://vimeo.com/280649279)
+[![](Documentation/Images/Unity_Fish_AI_Video_Thumb.jpg)](https://vimeo.com/280649279)
 
 
 
