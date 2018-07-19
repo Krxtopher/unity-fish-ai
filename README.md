@@ -22,5 +22,6 @@ The fish behavior is all defined in the file [`FishDemo/Scripts/Fish.cs`](Assets
 While the app is running, be sure to take a look at the editor viewport. It will show some debugging aids in the form of colored lines that communicate what each fish is "seeing", when it detects an obstacle, and how it plans to avoid the obstacle.
 
 ![Debug Aid Visuals](Documentation/Images/Debug_Aids.jpg)
+
 *Debug aids as seen in the editor viewport during play.*
 
